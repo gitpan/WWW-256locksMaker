@@ -43,6 +43,7 @@
             "Class::Accessor::Lite" : "0",
             "Furl" : "0",
             "Imager" : "0",
+            "URI" : "0",
             "perl" : "5.008005"
          }
       },
@@ -55,7 +56,7 @@
    "provides" : {
       "WWW::256locksMaker" : {
          "file" : "lib/WWW/256locksMaker.pm",
-         "version" : "0.01"
+         "version" : "0"
       }
    },
    "release_status" : "stable",
@@ -69,5 +70,5 @@
          "web" : "https://github.com/ytnobody/WWW-256locksMaker"
       }
    },
-   "version" : "0.01"
+   "version" : "0"
 }
